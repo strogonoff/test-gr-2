@@ -27,3 +27,5 @@ sponsor:
         - label: email
           value: anton@strogonoff.name
 status: pending
+disposition: !<tag:yaml.org,2002:js/undefined> ''
+timeProposed: 2020-09-30T11:31:34.195Z
