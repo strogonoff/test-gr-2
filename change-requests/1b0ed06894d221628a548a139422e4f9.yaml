@@ -1,7 +1,22 @@
 id: 1b0ed06894d221628a548a139422e4f9
 justification: ''
 timeStarted: 2020-09-30T11:30:44.739Z
-proposals: {}
+proposals:
+  coordinate-ops--transformation/b8d838f280b5206195dbce623570d057:
+    type: addition
+    payload:
+      identifier: 141
+      informationSource: []
+      remarks: ''
+      description: Test
+      extent:
+        name: ''
+        'n': 0
+        e: 0
+        s: 0
+        w: 0
+      operationVersion: ''
+      name: Transformation name
 sponsor:
   role: owner
   name: Anton
